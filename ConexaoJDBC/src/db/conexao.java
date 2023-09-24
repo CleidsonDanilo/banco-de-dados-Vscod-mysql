@@ -28,7 +28,7 @@ public class conexao {
 
     //método para retornar a conexão
     public Connection getConexao() {
-        return this.conectar;
+        return conexao.conectar;
     }
 
     //método sem retorno para finalizar a conexão
